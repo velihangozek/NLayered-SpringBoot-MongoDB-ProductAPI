@@ -1,0 +1,1 @@
+A Spring Boot project structured with multiple layers, designed to handle JSON-formatted product arrays via various requests. It executes CRUD operations on a MongoDB database, ensuring adherence to the business logic embedded within it.
